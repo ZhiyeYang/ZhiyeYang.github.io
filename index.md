@@ -1,5 +1,14 @@
-Here you can say lots of fun things about your site.
+Bonjour! Greetings from Geneva.
 
-Maybe say a some things about yourself.
+My name is Zhiye Yang.
 
-Or maybe what you plan to blog about.
+2nd year Master's student @ IHEID
+
+I study Global Health, joyfully most of the time.
+
+But for some reason, I was lured into this class: Social Network Theories and Methods.
+
+Tiptoeing through a whole semester's "inception" of social network theories and R markdowns.
+
+I now can say proudly that I can do social network analysis and R coding.
+
